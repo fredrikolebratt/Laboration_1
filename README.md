@@ -7,3 +7,5 @@ Den fil som ska lämnas in heter Inlämning_1. Där finns ett antal uppgifter so
 
 De som tidigare programmerat i Python kan enbart välja att lämna in inlämningsuppgiften utan att gå igenom tutorials eller läsa i boken. Allt material är på engelska utom uppgiftsbeskrivningarna. När ni kommenterar och beskriver er kod är det valfritt om ni använder engelska eller svenska. 
 
+Ni väljer själva om ni vill installera Anaconda och köra laborationerna lokalt på er egen dator. En fördel är att det ofta är snabbare att excekvera koden än på Notebooks.ai där ni endast får 1GB RAM. En nackdel är att en del studenter hade problem med miljövariabler för Anaconda förra året vilket skapade problem att köra vissa maskininlärningsalgoritmer som krävde specifika bibliotek som då inte gick att installera. Användare av MAC hade inga problem. 
+
