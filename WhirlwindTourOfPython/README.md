@@ -4,6 +4,8 @@
 
 Här finns notebooks som tillhör boken [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)). För den som inte tidigare programmerat Python rekommenderas att gå igenom både denna bok samt de olika tutorials som finns med i laboration 1. 
 
+**OBS** Vi kommer enbart att arbeta med Notebooks, inte köra några script eller skriva Python i kommandoprompten trots att båda dessa alternativ både är vanliga och använddbara i olika sammanhang. Ni kan därför bortse från beskrivningar som kopplar till scriptprogrammering i Python. 
+
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers who are
 already familiar with programming in another language.
