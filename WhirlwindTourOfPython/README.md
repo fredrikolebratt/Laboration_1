@@ -2,7 +2,7 @@
 
 *Jake VanderPlas, Summer 2016*
 
-Här finns notebooks som tillhör boken [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)). Läs nedanstående introduktion innan du ger dig i kast med de olika kapitlen i boken. För den som inte tidigare programmerat Python rekommenderas att gå igenom både denna bok samt de olika tutorials som finns med i laboration 1. 
+Här finns notebooks som tillhör boken [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)). För den som inte tidigare programmerat Python rekommenderas att gå igenom både denna bok samt de olika tutorials som finns med i laboration 1. 
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers who are
