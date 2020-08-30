@@ -1,25 +1,15 @@
-# A Whirlwind Tour of Python
+# A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
 
 *Jake VanderPlas, Summer 2016*
 
-This repository contains the Jupyter Notebooks behind my O'Reilly report,
-[*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)).
+Här finns notebooks som tillhör boken [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) (free [100-page pdf](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)). Läs nedanstående introduktion innan du ger dig i kast med de olika kapitlen i boken. För den som inte tidigare programmerat Python rekommenderas att gå igenom både denna bok samt de olika tutorials som finns med i laboration 1. 
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers who are
 already familiar with programming in another language.
 
-The material is particularly aimed at those who wish to use Python for data 
-science and/or scientific programming, and in this capacity serves as an
-introduction to
-[*The Python Data Science Handbook*](http://shop.oreilly.com/product/0636920034919.do) (also
-with notebooks [on github](https://github.com/jakevdp/PythonDataScienceHandbook)).
-These materials are adapted from courses and workshops I've given on these
-topics at University of Washington and at various conferences, meetings, and
-workshops around the world.
-
 This material was written and tested using **Python 3.5**, and should work for any Python 3.X
-version. I have done my best to note places where the syntax of Python 2.X will differ.
+version. 
 
 ## Index
 
@@ -55,9 +45,3 @@ This material is released under the "No Rights Reserved" [CC0](LICENSE)
 license, and thus you are free to re-use, modify, build-on, and enhance
 this material for any purpose.
 Read more about CC0 [here](https://creativecommons.org/share-your-work/public-domain/cc0/).
-
-If you do use this material, I would appreciate attribution.
-An attribution usually includes the title, author, publisher, and ISBN.
-For example:
-
-> A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
