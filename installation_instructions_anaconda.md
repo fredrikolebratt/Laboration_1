@@ -1,6 +1,6 @@
 # Installation
 
-Base requirements:
+Base requirements (everything is not necessary for laboration 1):
 - [Python 3](https://www.python.org/downloads/).7 or newer
 - Required Python packages
   - pandas
