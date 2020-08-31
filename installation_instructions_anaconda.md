@@ -24,9 +24,7 @@ Download and install [graphviz](http://graphviz.org/download/) for Windows.
 
 Download or `git clone` your repository for assignment 1 to your computer.
 
-To install the required Python packages, after you have installed Anaconda you can run the following command from the root directory of this repository:
-
-    pip install -r requirements.txt
+To install the required Python packages, after you have installed Anaconda see [Anacondas dokumentation](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/)
     
 You can then launch Jupyter from the Anaconda Navigator application.
 
@@ -39,10 +37,7 @@ The most straightforward way to install the requirements if you do not already h
 Download and install [graphviz](http://graphviz.org/download/) for Mac OSX.
 
 Download or `git clone` your repository for assignment 1 to your computer.
-
-To install the required Python packages, after you have installed Anaconda you can run the following command from the root directory of this repository:
-
-    pip install -r requirements.txt
+ To install the required Python packages, after you have installed Anaconda see [Anacondas dokumentation](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/)
     
 You can then launch Jupyter from the Anaconda Navigator application or with the following command from the root directory of this repository:
 
