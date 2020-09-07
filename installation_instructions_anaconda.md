@@ -40,11 +40,8 @@ Download and install [graphviz](http://graphviz.org/download/) for Mac OSX.
 
 Download or `git clone` your repository for assignment 1 to your computer.
 
-To install the required Python packages, after you have installed Anaconda you can run the following command from the root directory of this repository:
-
-    pip install -r requirements.txt
     
-You can then launch Jupyter from the Anaconda Navigator application or with the following command from the root directory of this repository:
+You can then launch Jupyter from the Anaconda Navigator application or with the following command from the root directory of your repository:
 
     jupyter notebook
 
