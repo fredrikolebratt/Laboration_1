@@ -9,7 +9,7 @@ Det finns två mappar med tutorials, den enda, Tutorials basic Python, är framf
 
 ## Inlämning
 
-Laborationen består av två filer Inlämning_1_del_1 och Inlämning_1_del_2. Där finns ett antal uppgifter som ni ska lösa i par. Vissa uppgifter är programmeringsuppgifter medan andra ska besvaras med text. Skapa alltid nya block (text eller kod) för att besvara en fråga.
+Laborationen består av två filer *Inlämning_1_del_1* och *Inlämning_1_del_2*. Där finns ett antal uppgifter som ni ska lösa i par. Vissa uppgifter är programmeringsuppgifter medan andra ska besvaras med text. Skapa alltid nya block (text eller kod) för att besvara en fråga.
 
 De som tidigare programmerat i Python kan enbart välja att lämna in inlämningsuppgiften utan att gå igenom tutorials eller läsa i boken. Allt material är på engelska utom uppgiftsbeskrivningarna. När ni kommenterar och beskriver er kod är det valfritt om ni använder engelska eller svenska. 
 
